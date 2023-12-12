@@ -1,5 +1,10 @@
-### Hi there 👋
+### Olá! 👋
 
+<div>
+  <a href="https://github.com/amanda-fernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-fernandes&show_icons=true&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-fernandes&layout=compact&theme=dracula"/>
+</div>
 <!--
 **amanda-fernandes/amanda-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
